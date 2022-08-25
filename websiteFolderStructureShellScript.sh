@@ -1,5 +1,5 @@
 #!bin/bash
-# Script for the Website Folder Structure basic"
+# Script for the Website Folder Structure basic
 # Author: jose mejia | jmrx
 # version: 1.0
 # date : 2022-08-25
